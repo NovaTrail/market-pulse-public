@@ -1,4 +1,4 @@
-# market-pulse-public 
+# Market-pulse-public 
 
 A select extract of files from the the hobby project 'market-pulse', a interactive dashboard looking a inflation statistics (CPI and PPI). 
 
